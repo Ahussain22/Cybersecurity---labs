@@ -1,17 +1,48 @@
 # Network Enumeration Using Nmap
 
 ## Objective
-The goal of this lab was to perform network enumeration on a target machine using Nmap to identify open ports, running services, and potential vulnerabilities.
+The goal of this lab was to perform network enumeration on a target machine using Nmap to identify open ports, running services, and potential attack surface.
+---
 
 ## Scenario
-I was given access to a target machine and needed to gather as much information as possible about the system without logging into it.
+I was given access to a target machine and needed to gather as much information as possible without logging into the system.
+
+---
 
 ## Tools Used
 - Nmap
 
+---
+
 ## Steps Taken
 
-### 1. Basic scan (open ports)
+### 1. Basic Scan (Open Ports)
 
 ```bash
 nmap 192.168.56.101
+```
+
+This scan identified open ports on the target system.
+
+#### Screenshot
+![Basic Scan](nmap.png)
+
+---
+
+## Findings
+
+- Identified open ports on the target system  
+- Discovered services running on those ports  
+
+---
+
+## Outcome
+
+- Successfully enumerated the target system  
+- Identified potential attack surface  
+
+---
+
+## Key Learning
+
+This lab showed how important enumeration is in cybersecurity. Nmap allows you to gather critical information about a system without needing direct access.
