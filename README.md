@@ -55,8 +55,8 @@ This portfolio focuses on practical hands-on labs covering:
 |---|---|
 | [Log Analysis & Threat Hunting](https://github.com/Ahussain22/log-analysis-threat-hunting) | Windows logs, failed logons, suspicious activity |
 | [Windows Defender Malware Detection](https://github.com/Ahussain22/windows-defender-malware-detection) | Malware detection, Windows Defender, endpoint protection |
-| [Splunk SIEM Lab](https://github.com/Ahussain22/splunk-siem-lab) | SIEM analysis, searching logs, investigation queries |
-| [Windows Endpoint Investigation](https://github.com/Ahussain22/windows-endpoint-investigation-lab) | Processes, network connections, persistence checks |
+| [Splunk SIEM Lab](https://github.com/Ahussain22/splunk-log-analysis ) | SIEM analysis, searching logs, investigation queries |
+| [Windows Endpoint Investigation](https://github.com/Ahussain22/windows-endpoint-investigation) | Processes, network connections, persistence checks |
 
 ---
 
