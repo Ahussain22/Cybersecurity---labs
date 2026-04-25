@@ -29,8 +29,8 @@ This portfolio focuses on practical hands-on labs covering:
 <p align="center">
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA-Network%2B-blue?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-A%2B-darkblue?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-green?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-A%2B-darkred?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-purple?style=for-the-badge&logo=comptia&logoColor=white" />
 </p>
 
 ---
