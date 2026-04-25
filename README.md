@@ -41,11 +41,11 @@ This portfolio focuses on practical hands-on labs covering:
 
 | Project | Skills Demonstrated |
 |---|---|
-| [Nmap Enumeration Lab](https://github.com/YOUR-GITHUB-USERNAME/Nmap-Enumeration) | Port scanning, service detection, reconnaissance |
-| [SUID Privilege Escalation](https://github.com/YOUR-GITHUB-USERNAME/SUID-Privilege-Escalation) | Linux privilege escalation, SUID file abuse |
+| [Nmap Enumeration Lab](https://github.com/Ahussain22/Nmap-Enumeration) | Port scanning, service detection, reconnaissance |
+| [SUID Privilege Escalation](https://github.com/Ahussain22/SUID-Privilege-Escalation) | Linux privilege escalation, SUID file abuse |
 | [GTFOBins Privilege Escalation](https://github.com/YOUR-GITHUB-USERNAME/gtfobins-privilege-escalation) | GTFOBins, privilege escalation techniques |
 | [Password Attacks Lab](https://github.com/YOUR-GITHUB-USERNAME/password-attacks-lab) | Password attacks, credential discovery |
-| [DVWA SQL Injection Lab](https://github.com/YOUR-GITHUB-USERNAME/dvwa-sql-injection-lab) | Web exploitation, SQL injection, OWASP Top 10 |
+| [SQL Injection Lab](https://github.com/Ahussain22E/sql-injection-lab) | Web exploitation, SQL injection, OWASP Top 10 |
 
 ---
 
