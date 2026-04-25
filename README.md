@@ -59,48 +59,35 @@ This portfolio focuses on practical hands-on labs covering:
 | [Windows Endpoint Investigation](https://github.com/Ahussain22/windows-endpoint-investigation) | Processes, network connections, persistence checks |
 
 ---
+## 🧠 Real-World Scenarios Simulated
 
-## 🧠 What This Portfolio Demonstrates
-
-This portfolio shows my ability to:
-
-- Identify open ports and exposed services
-- Perform basic vulnerability discovery
-- Understand Linux privilege escalation methods
-- Investigate suspicious Windows activity
-- Analyse logs using Event Viewer and Splunk
-- Detect suspicious processes, network connections, and persistence
-- Explain technical findings clearly and professionally
-
+- Investigated brute force login attempts using Windows Event Logs (Event ID 4625)
+- Analysed suspicious processes to identify potential malware activity on a Windows endpoint
+- Detected privilege escalation paths through misconfigured SUID files on Linux systems
+- Used Splunk SIEM to search, filter, and identify unusual log patterns
+- Reviewed failed and successful login attempts to identify suspicious behaviour
+- Investigated running processes and network connections for signs of persistence
 ---
 
 ## 🛠️ Tools Used
 
-- Kali Linux
-- Metasploitable
-- Windows 10 VM
-- Nmap
-- Splunk
-- Windows Event Viewer
-- Windows Defender
-- Command Prompt / PowerShell
-- DVWA
-
+- **SIEM:** Splunk (log searching, threat detection, investigation queries)
+- **Operating Systems:** Windows 10, Kali Linux
+- **Networking:** Nmap (port scanning, service enumeration)
+- **Security Tools:** Metasploit, Windows Defender
+- **Log Analysis:** Windows Event Viewer
+- **Scripting/CLI:** Command Prompt, PowerShell, Bash
+- **Web Security:** DVWA (SQL Injection testing, OWASP Top 10)
 
 ---
 
 ## 🎯 Career Goal
 
-My goal is to transition into a **cybersecurity role**, using practical lab experience to build strong foundations in:
+To secure a SOC Analyst / Blue Team role where I can apply hands-on experience in:
 
-- SOC analysis
-- Threat detection
-- Incident response
-- Endpoint investigation
-- Vulnerability identification
+- Log analysis and threat detection  
+- Investigating suspicious activity across endpoints and networks  
+- Identifying vulnerabilities and potential attack paths  
+- Supporting incident response and security monitoring operations  
 
----
-
-## 📌 Portfolio Status
-
-This portfolio is continuously being updated as I complete more labs and develop my cybersecurity skills.
+I am continuously developing my skills through practical labs and real-world attack simulations to become a job-ready cybersecurity professional.
