@@ -85,13 +85,13 @@ This portfolio shows my ability to:
 - Windows Defender
 - Command Prompt / PowerShell
 - DVWA
-- GitHub
+
 
 ---
 
 ## 🎯 Career Goal
 
-My goal is to transition into a **blue team cybersecurity role**, using practical lab experience to build strong foundations in:
+My goal is to transition into a **cybersecurity role**, using practical lab experience to build strong foundations in:
 
 - SOC analysis
 - Threat detection
