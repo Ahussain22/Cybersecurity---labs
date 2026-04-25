@@ -43,9 +43,9 @@ This portfolio focuses on practical hands-on labs covering:
 |---|---|
 | [Nmap Enumeration Lab](https://github.com/Ahussain22/Nmap-Enumeration) | Port scanning, service detection, reconnaissance |
 | [SUID Privilege Escalation](https://github.com/Ahussain22/SUID-Privilege-Escalation) | Linux privilege escalation, SUID file abuse |
-| [GTFOBins Privilege Escalation](https://github.com/YOUR-GITHUB-USERNAME/gtfobins-privilege-escalation) | GTFOBins, privilege escalation techniques |
+| [GTFOBins Privilege Escalation](https://github.com/Ahussain22/gtfobins-privilege-escalation) | GTFOBins, privilege escalation techniques |
+| [SQL Injection Lab](https://github.com/Ahussain22/sql-injection-lab) | Web exploitation, SQL injection, OWASP Top 10 |
 | [Password Attacks Lab](https://github.com/YOUR-GITHUB-USERNAME/password-attacks-lab) | Password attacks, credential discovery |
-| [SQL Injection Lab](https://github.com/Ahussain22E/sql-injection-lab) | Web exploitation, SQL injection, OWASP Top 10 |
 
 ---
 
@@ -53,10 +53,10 @@ This portfolio focuses on practical hands-on labs covering:
 
 | Project | Skills Demonstrated |
 |---|---|
-| [Log Analysis & Threat Hunting](https://github.com/YOUR-GITHUB-USERNAME/log-analysis-threat-hunting) | Windows logs, failed logons, suspicious activity |
-| [Windows Defender Malware Detection](https://github.com/YOUR-GITHUB-USERNAME/windows-defender-malware-detection) | Malware detection, Windows Defender, endpoint protection |
-| [Splunk SIEM Lab](https://github.com/YOUR-GITHUB-USERNAME/splunk-siem-lab) | SIEM analysis, searching logs, investigation queries |
-| [Windows Endpoint Investigation](https://github.com/YOUR-GITHUB-USERNAME/windows-endpoint-investigation-lab) | Processes, network connections, persistence checks |
+| [Log Analysis & Threat Hunting](https://github.com/Ahussain22/log-analysis-threat-hunting) | Windows logs, failed logons, suspicious activity |
+| [Windows Defender Malware Detection](https://github.com/Ahussain22/windows-defender-malware-detection) | Malware detection, Windows Defender, endpoint protection |
+| [Splunk SIEM Lab](https://github.com/Ahussain22/splunk-siem-lab) | SIEM analysis, searching logs, investigation queries |
+| [Windows Endpoint Investigation](https://github.com/Ahussain22/windows-endpoint-investigation-lab) | Processes, network connections, persistence checks |
 
 ---
 
