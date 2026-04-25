@@ -1,66 +1,106 @@
-# Cybersecurity Labs Portfolio
-
+# 🛡️ Cybersecurity Labs Portfolio
 
 Welcome to my cybersecurity portfolio.  
-This repository documents the hands-on labs and projects I have completed while learning cybersecurity, with a focus on both offensive and defensive security skills.
+This repository documents the hands-on labs and projects I have completed while building practical skills in **red team**, **blue team**, and **SOC analyst-style investigations**.
+
+My goal is to demonstrate technical understanding through clear write-ups, screenshots, commands used, findings, and lessons learned.
 
 ---
 
-## About Me
+## 👤 About Me
 
-I am currently building my cybersecurity knowledge with the goal of moving into a blue team role.  
-I am developing practical hands-on experience through labs and documenting my work to showcase my technical understanding.
+I am currently developing my cybersecurity knowledge with the goal of moving into a **blue team / SOC analyst role**.
+
+This portfolio focuses on practical hands-on labs covering:
+
+- Network enumeration
+- Linux privilege escalation
+- Web application exploitation
+- Password attacks
+- Windows log analysis
+- Endpoint investigation
+- Malware detection
+- SIEM/Splunk analysis
 
 ---
 
-## Certifications
+## 🎓 Certifications
 
-<p>
-  <a href="https://www.credly.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+" />
-  </a>
-  <a href="https://www.credly.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CompTIA-Network%2B-blue?style=for-the-badge&logo=comptia&logoColor=white" alt="Network+" />
-  </a>
-  <a href="https://www.credly.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CompTIA-A%2B-grey?style=for-the-badge&logo=comptia&logoColor=white" alt="A+" />
-  </a>
-  <a href="https://www.credly.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CompTIA-CySA%2B-green?style=for-the-badge&logo=comptia&logoColor=white" alt="CySA+" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Network%2B-blue?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-A%2B-darkblue?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-green?style=for-the-badge&logo=comptia&logoColor=white" />
 </p>
 
-> Replace the links above with your actual Credly badge links if you have them.
+---
+
+## 📁 Projects
+
+### 🔴 Red Team / Offensive Security Labs
+
+| Project | Skills Demonstrated |
+|---|---|
+| [Nmap Enumeration Lab](https://github.com/YOUR-GITHUB-USERNAME/Nmap-Enumeration) | Port scanning, service detection, reconnaissance |
+| [SUID Privilege Escalation](https://github.com/YOUR-GITHUB-USERNAME/SUID-Privilege-Escalation) | Linux privilege escalation, SUID file abuse |
+| [GTFOBins Privilege Escalation](https://github.com/YOUR-GITHUB-USERNAME/gtfobins-privilege-escalation) | GTFOBins, privilege escalation techniques |
+| [Password Attacks Lab](https://github.com/YOUR-GITHUB-USERNAME/password-attacks-lab) | Password attacks, credential discovery |
+| [DVWA SQL Injection Lab](https://github.com/YOUR-GITHUB-USERNAME/dvwa-sql-injection-lab) | Web exploitation, SQL injection, OWASP Top 10 |
 
 ---
 
-## Projects
+### 🔵 Blue Team / Defensive Security Labs
 
-- [Nmap Enumeration Lab](#)
-- [Linux Privilege Escalation Lab](#)
-- [Password Attacks Lab](#)
-- [Windows Enumeration Lab](#)
-- [Blue Team Investigation Lab](#)
-- [SOC Automation Project](#)
-- [Detection Lab](#)
-
----
-
-## What This Portfolio Includes
-
-- Linux privilege escalation labs
-- Enumeration and exploitation techniques
-- Password attacks and credential discovery
-- Windows and blue team investigations
-- Step-by-step writeups with commands, findings, and lessons learned
+| Project | Skills Demonstrated |
+|---|---|
+| [Log Analysis & Threat Hunting](https://github.com/YOUR-GITHUB-USERNAME/log-analysis-threat-hunting) | Windows logs, failed logons, suspicious activity |
+| [Windows Defender Malware Detection](https://github.com/YOUR-GITHUB-USERNAME/windows-defender-malware-detection) | Malware detection, Windows Defender, endpoint protection |
+| [Splunk SIEM Lab](https://github.com/YOUR-GITHUB-USERNAME/splunk-siem-lab) | SIEM analysis, searching logs, investigation queries |
+| [Windows Endpoint Investigation](https://github.com/YOUR-GITHUB-USERNAME/windows-endpoint-investigation-lab) | Processes, network connections, persistence checks |
 
 ---
 
-## Goal
+## 🧠 What This Portfolio Demonstrates
 
-My goal is to build a strong portfolio that demonstrates my ability to:
+This portfolio shows my ability to:
 
-- Identify vulnerabilities
-- Exploit misconfigurations
-- Investigate system activity
-- Clearly document technical findings
+- Identify open ports and exposed services
+- Perform basic vulnerability discovery
+- Understand Linux privilege escalation methods
+- Investigate suspicious Windows activity
+- Analyse logs using Event Viewer and Splunk
+- Detect suspicious processes, network connections, and persistence
+- Explain technical findings clearly and professionally
+
+---
+
+## 🛠️ Tools Used
+
+- Kali Linux
+- Metasploitable
+- Windows 10 VM
+- Nmap
+- Splunk
+- Windows Event Viewer
+- Windows Defender
+- Command Prompt / PowerShell
+- DVWA
+- GitHub
+
+---
+
+## 🎯 Career Goal
+
+My goal is to transition into a **blue team cybersecurity role**, using practical lab experience to build strong foundations in:
+
+- SOC analysis
+- Threat detection
+- Incident response
+- Endpoint investigation
+- Vulnerability identification
+
+---
+
+## 📌 Portfolio Status
+
+This portfolio is continuously being updated as I complete more labs and develop my cybersecurity skills.
